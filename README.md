@@ -1,2 +1,1 @@
-# Images
-jsDelivr  CDN
+Images bed for Blogs
